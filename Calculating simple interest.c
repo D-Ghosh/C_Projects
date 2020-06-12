@@ -1,3 +1,5 @@
+//Calculation of simple interest
+
 #include <stdio.h>
 
 void main()
